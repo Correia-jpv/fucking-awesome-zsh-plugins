@@ -1256,6 +1256,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [jumper](https://github.com/thestuckster/jumper) - Saves your current path and allows you to quickly jump to others.
 - [k](https://github.com/supercrabtree/k) - Directory listings for ZSH with `git` status decorations.
 - [k3d](https://github.com/dwaynebradley/k3d-oh-my-zsh-plugin) - Adds aliases and tab completions for [k3d](https://k3d.io/).
+- [k9s](https://github.com/acidix/zsh-k9s) - Provides an iteractive `$KUBECONFIG` selector for [k9s](https://k9scli.io/).
 - [kctl](https://github.com/yzdann/kctl) - Add helper aliases for `kubectl`.
 - [kill-node](https://github.com/vmattos/kill-node) - ZSH plugin for murdering `node` process families.
 - [kitsunebook](https://github.com/d12frosted/kitsunebook.plugin.zsh) - KitsuneBook plugin for [oh-my-zsh](https://ohmyz.sh).
