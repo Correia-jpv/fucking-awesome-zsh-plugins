@@ -78,7 +78,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [ztheme](#ztheme)
   - [ztupide](#ztupide)
   - [zulu](#zulu)
-  - [zush 🦥 - Mid-Performance ZSH Configuration](#zush-%F0%9F%A6%A5---mid-performance-zsh-configuration)
+  - [zush 🦥 - Mid-Performance ZSH Configuration](#zush----mid-performance-zsh-configuration)
 - [Setups](#setups)
   - [zgenom](#zgenom-1)
   - [zinit](#zinit)
