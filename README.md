@@ -1636,6 +1636,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [smart-cd](https://github.com/dbkaplun/smart-cd) - Runs `ls` and `git status` after chpwd.
 - [smart-command-not-found](https://github.com/rami-shalhoub/Smart-command-not-found) - Shows all available options when a command is not found.
 - [smart-files](https://github.com/vxfemboy/zsh-smart-files) - Enhances CLI by providing visual feedback for file paths and automatically creating directories when needed. It highlights paths in different colors based on their status (existing, new, or permission-denied) and handles directory creation automatically.
+- [smart-history](https://github.com/lstasi/zsh-smart-history-plugin) - Turns your recent ZSH history into command suggestions powered by Ollama.
 - [smart-insert](https://github.com/lgdevlop/zsh-smart-insert) - provides interactive widgets to search for files and content using [`fd`](https://github.com/sharkdp/fd), [`rg`](https://github.com/BurntSushi/ripgrep), and [`fzf`](https://github.com/junegunn/fzf). It inserts the result directly into your shell with optional command prefixes.
 - [smartcache](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 - [smartinput](https://github.com/momo-lab/zsh-smartinput) - When you type brackets or quotes, the corresponding end brackets/quotes are automatically added.
@@ -2815,7 +2816,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [papercolor](https://github.com/erikschreier/PaperColor-themes) - Color scheme for ZSH, `vim` and `tmux`. Includes `git` status decorations.
 - [paramour](https://github.com/espeon/paramour) - Simple and clean, has decorators for `git` status, username, time, current directory and username. Requires a [Nerd Font](https://github.com/ryanoasis/nerd-fonts) in your terminal.
 - [paroape](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
-- [parrot-htb](https://github.com/Lloyd-Leo/parrot-htb-zsh-theme) - Includes decorators for current directory, `git` status and username@hostname.
 - [parrot](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user@host, `git` information, exit status of last command, time and current directory.
 - [passion](https://github.com/ChesterYue/ohmyzsh-theme-passion) - Includes decorations for current time, `git` status, last command run time in milliseconds, and the exit status of the last command. Requires coreutils on macOS.
 - [pastel](https://github.com/iboyperson/pastel) - A ZSH theme inspired by [sugar-free](https://github.com/cbrock/sugar-free). Includes `git` decorations.
@@ -3034,6 +3034,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [solarizsh](https://github.com/paddykontschak/Solarizsh) - Color fix for robbyrussell's oh-my-zsh theme to work with [solarized](https://github.com/altercation/solarized) terminals.
 - [sorin-modified-dark](https://github.com/hrmeetsingh/sorin-modified-dark) - Based on [sorin](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin). Minimalist, adds decorators for `git` status and current directory.
 - [spaceship](https://github.com/denysdovhan/spaceship-prompt) - Theme with `git`, `nvm`, rvm/rbenv/chruby, python, `ssh` and other useful status decorators.
+- [spaceshit](https://github.com/claudiosanches/spaceshit-zsh-theme) - The beauty of [spaceship](https://github.com/denysdovhan/spaceship-prompt) with the speed of a minimalist setup. Includes decorators for current directory, `git` status, command execution time and color-coded success/error symbols.
 - [spectere](https://github.com/Spectere/spectere-omz-theme) - Powerline-esque. Includes decorators for current directory, root status, `user@hostname`, and `git` status.
 - [spowerline](https://mbauhardt.github.io/spowerline/) - Written in scala, inspired by [Agnoster](https://github.com/agnoster/agnoster-zsh-theme), [tmux](https://tmux.github.io) powerline, vim powerline and the vim status plugin.
 - [spyrhoo](https://github.com/FajarKim/spyrhoo-zsh-theme) - Includes time, `git` and current directory decorations.
