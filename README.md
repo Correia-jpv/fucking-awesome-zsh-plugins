@@ -1480,6 +1480,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [php-version-switcher](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
 - [phpcs](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer](https://github.com/squizlabs/PHP_CodeSniffer).
 - [phpunit](https://github.com/voronkovich/phpunit.plugin.zsh) - Plugin for [PHPUnit](https://phpunit.de/).
+- [pi](https://github.com/nearsyh/pi-zsh-plugin) - Maps `:` commands in your shell to `pi -p` calls and keeps a per-shell `pi` session file for continuity.
 - [pins](https://github.com/mehalter/zsh-pins) - A plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 - [pip-app](https://github.com/sharat87/pip-app) - Makes it easy to install python applications into distinct Python virtualenvs so they don't conflict with any other python requirements on your system.
 - [pip-env](https://github.com/iboyperson/zsh-pipenv) - Automatic [pipenv](https://pipenv.readthedocs.io/en/latest/) activation upon entry into a `pipenv` project.
