@@ -56,6 +56,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [zapack](#zapack)
   - [zcomet](#zcomet)
   - [zeesh](#zeesh)
+  - [zert](#zert)
   - [zgem](#zgem)
   - [zgen](#zgen)
   - [zgenom](#zgenom)
@@ -441,6 +442,24 @@ Features Provided by XC-Manager:
  ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh)
 
 **Zeesh** is a cross-platform ZSH framework. It's similar to, but incompatible with, [oh-my-zsh](http://ohmyz.sh/). It has a modular plugin architecture making it easy to extend. It has a rich set of defaults, but is designed to be as lightweight as possible.
+
+### [zert](https://github.com/oxcl/zert)
+![GitHub last commit](https://img.shields.io/github/last-commit/oxcl/zert)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/oxcl/zert)
+
+ **zert** is a pure-ZSH plugin manager built around a simple idea: your plugins should be declared directly in your `.zshrc`, pinned to exact commits, and reproducible on any machine — just like `npm` does for Node projects.
+
+No config files to maintain. No subcommands to memorize for adding plugins. No external tools. Just ZSH, `git`, and `curl`.
+
+Features
+
+* **Inline, declarative syntax** — declare plugins directly in `.zshrc`. No separate config file, no add command.
+* **Lockfile-based reproducibility** — `zert.lock` pins every plugin to an exact `git` commit SHA. Commit it. Share it. Reproduce it anywhere.
+* **Parallel installs** — clones multiple plugins simultaneously using `git clone --filter=tree:0` for minimal bandwidth.
+* **Sequential, ordered loading** — plugins are sourced in exactly the order you declare them. Always.
+* **Zero external UI dependencies** — real-time progress bars and spinners built entirely from ANSI escape codes.
+* **Self-managing** — Zert updates itself with `zert update zert`, managed as a first-class plugin.
+* **Oh-My-Zsh / Prezto compatibility** — load OMZ libs and Prezto modules without installing either framework.*
 
 ### [zgem](https://github.com/qoomon/zgem)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)
