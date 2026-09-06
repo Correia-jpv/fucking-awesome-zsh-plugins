@@ -2683,6 +2683,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [kali](https://github.com/h4ck3r0/kali-theme) - Includes `git` decorations.
 - [kalsowerus](https://github.com/kalsowerus/kalsowerus.zsh-theme) - Colorful powerline-inspired multi-line theme, includes decorations for `git` status, directory, last command exit status and `nvm` information.
 - [karu](https://github.com/zaari/karu) - Minimalist single line ZSH prompt.
+- [katana](https://github.com/KakshiDEV56/zsh-katana) - A minimalist, samurai-inspired prompt theme. Renders the current directory and Git branch/status as two compact, dark steel-toned segments, joined by a Powerline-style separator, with a single crimson accent used for Git status.
 - [kawaii](https://github.com/LeonidPilyugin/kawaii-oh-my-zsh/) - Has terminal and virtual console modes. Includes decorators for username, directory, last command exit status, timestamp and `git` status.
 - [keloran](https://github.com/Keloran/keloran.zsh-theme) - Theme that includes a few features from other themes.
 - [kenton](https://github.com/notnek/zsh-theme) - Optimized for dark backgrounds, includes `git` status information.
